@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Persisted index / vector store
+.rag_index/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
