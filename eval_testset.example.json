@@ -1,0 +1,13 @@
+[
+  {
+    "query": "What is the warranty period for this product?",
+    "expected_source": "manual.pdf"
+  },
+  {
+    "query": "How do I reset the device to factory settings?",
+    "expected_source": "manual.pdf"
+  },
+  {
+    "query": "What is the capital of France?"
+  }
+]
